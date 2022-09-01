@@ -1,0 +1,10 @@
+pane	dev	1	0	:	0	oli	:/home/oli/personal/prometheus/custom	1	zsh	:
+pane	dev	2	1	:*Z	0	oli	:/home/oli/personal/prometheus	1	ssh	:ssh ashish@143.110.252.151 -p 2222
+pane	dev	2	1	:*Z	1	oli	:/home/oli/personal/node-exporter	0	zsh	:
+pane	dev	3	0	:-Z	0	oli	:/home/oli/personal/prometheus/test/custom-metrics-config	1	zsh	:
+pane	dev	3	0	:-Z	1	oli	:/home/oli	0	zsh	:
+pane	dev	3	0	:-Z	2	oli	:/home/oli/personal/prometheus/test/custom-metrics-config	0	kubectl	:kubectl port-forward -n=monitoring service/prometheus-operated 9090:9090
+window	dev	1	:local	0	:	c4bd,190x46,0,0,0	off
+window	dev	2	:ssh	1	:*Z	5fdd,190x46,0,0{95x46,0,0,1,94x46,96,0,3}	off
+window	dev	3	:trash	0	:-Z	64cd,190x46,0,0[190x28,0,0{95x28,0,0,2,94x28,96,0,5},190x17,0,29,4]	off
+state	dev	

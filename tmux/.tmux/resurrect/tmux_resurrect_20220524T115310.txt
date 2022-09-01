@@ -1,0 +1,5 @@
+pane	dev	1	1	:*	0	oli	:/home/oli/personal/testing-github-actions	1	npm	:npm
+pane	dev	1	1	:*	1	oli	:/home/oli	0	ngrok	:ngrok http 8081 --host-header localhost:8081
+pane	dev	1	1	:*	2	oli	:/home/oli/personal/testing-github-actions	0	zsh	:
+window	dev	1	:local	1	:*	7045,158x38,0,0[158x19,0,0,0,158x18,0,20{79x18,0,20,8,78x18,80,20,9}]	off
+state	dev	
