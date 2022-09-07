@@ -1,7 +1,0 @@
-pane	dev	1	1	:*Z	0	oli	:/home/oli	1	ssh	:ssh vicara
-pane	dev	1	1	:*Z	1	oli	:/home/oli	0	zsh	:
-pane	dev	2	0	:-Z	0	oli	:/home/oli/personal/mount	1	zsh	:
-pane	dev	2	0	:-Z	1	oli	:/home/oli/personal/mount	0	zsh	:
-window	dev	1	:ssh	1	:*Z	cbc1,158x38,0,0{79x38,0,0,0,78x38,80,0,2}	off
-window	dev	2	:local	0	:-Z	4bc6,158x38,0,0{79x38,0,0,1,78x38,80,0,3}	off
-state	dev	

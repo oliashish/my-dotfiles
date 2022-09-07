@@ -1,4 +1,0 @@
-pane	local	1	1	:*	0	oli	:/home/oli	1	ssh	:ssh ashish@143.110.252.151 -p 2222
-pane	local	1	1	:*	1	oli	:/home/oli	0	zsh	:
-window	local	1	:local	1	:*	81e0,190x48,0,0{95x48,0,0,0,94x48,96,0,1}	off
-state	local	
